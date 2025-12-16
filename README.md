@@ -1,4 +1,4 @@
-**Mini C Compiler using Flex and Bison**
+# Mini C Compiler using Flex and Bison
 
 **Description**
  - This project implements a Mini C Compiler supporting basic arithmetic
